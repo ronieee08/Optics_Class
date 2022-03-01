@@ -31,3 +31,9 @@ download_path = r'path/to/download'
 for wv_item in wv_items:
     print(f'Downloading {wv_item.id}')
     download_item_assets(wv_item.to_dict(), path=download_path)
+
+
+
+
+
+ajkbvgiuegqiohfoiwegdfiugqweidugfhlokqwebndolfboihwerd
